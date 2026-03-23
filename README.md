@@ -9,6 +9,7 @@ This project highlights my journey into data analytics by building an interactiv
 <br>
 The key objectives of this project were to:
 <br>
+
 1.Analyze sales and order patterns across regions and time
 <br>
 2.Understand customer segments and purchasing behavior
@@ -19,6 +20,7 @@ The key objectives of this project were to:
 <br>
 
 ⚙️ Tools & Techniques Used
+
 <br>
 1.Microsoft Excel
 <br>
@@ -32,6 +34,7 @@ The key objectives of this project were to:
 <br>
 
 📊 Key Insights
+
 <br>
 1.West region recorded the highest number of transactions
 <br>
@@ -45,6 +48,7 @@ The key objectives of this project were to:
 
 
 🖼️ Dashboard Preview
+
 <br>
 Includes KPI cards, monthly trends, regional analysis, and category breakdowns with interactive filters.
 <br>
