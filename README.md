@@ -1,5 +1,6 @@
 # Excel-Retail-Superstore-Interactive-Dashboard
 📁 Project Overview
+
 <br>
 This project highlights my journey into data analytics by building an interactive Excel dashboard using the Superstore dataset. The focus was on transforming raw data into actionable business insights through structured analysis and visualization.
 
@@ -83,9 +84,7 @@ README.md – Project documentation
 <br>
 4.Business Insight Generation
 <br>
-
-
-Data Storytelling
+5.Data Storytelling
 <br>
 👨‍💻 Author
 <br>
