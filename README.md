@@ -36,6 +36,8 @@ The key objectives of this project were to:
 <br>
 5.Dashboard Design & KPI Visualization
 <br>
+<br>
+
 
 📊 Key Insights
 
@@ -47,6 +49,7 @@ The key objectives of this project were to:
 3.Sales showed an increasing trend toward the end of the year
 <br>
 4.Office Supplies category had the highest transaction volume
+<br>
 <br>
 
 
